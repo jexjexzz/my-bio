@@ -1,0 +1,55 @@
+body {
+    background-color: pink;
+    background: linear-gradient(0, #f8ddef, #f7cbf4);
+    color: black;
+    font-family: 'Prompt', sans-serif;
+    font-size: 1.5em;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+/* h2 {
+    font: size 1.5em;
+} */
+
+.container{
+    padding: 0 1em;
+    width: 30em;
+    margin: 0 auto;
+}
+.primary-heading {
+    color: rgba(224, 159, 210, 0.63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+
+.highlight {
+    background: rgb(234, 178, 248);
+    color: black;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 900;
+} 
+
+.center-this {
+    text-align: center;
+}
+
+.About {
+    background-color: rgb(253, 174, 217);
+}
+.list {
+    color : rgb(247, 184, 241);
+    background-color: rgb(242, 209, 250);
+    font-size: 1.125em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    line-height: 1.25em
+}
